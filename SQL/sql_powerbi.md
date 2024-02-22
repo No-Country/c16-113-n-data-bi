@@ -1,12 +1,9 @@
-Pasos:
-Abrir Power BI Desktop e iniciar un nuevo informe en blanco.
-Markdown
+
 # Abrir Power BI Desktop e iniciar un nuevo informe en blanco.
 
 Power BI Desktop.exe
 Usa el código con precaución.
-En la pestaña Inicio, seleccionar Obtener datos.
-Markdown
+
 # En la pestaña **Inicio**, seleccionar **Obtener datos**.
 
 Inicio -> Obtener datos
