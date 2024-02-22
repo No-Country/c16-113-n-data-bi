@@ -1,16 +1,16 @@
-# Instrucciones para Acceder a la Base de Datos Online de Netflix
+# Instrucciones para Acceder a la Base de Datos local de Netflix
 
 Bienvenido/a,
 
-A continuación, encontrarás las instrucciones para acceder a la base de datos on-line de Netfllix. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
-Tener en cuenta que es una database online en una nube de prueba, maximo 5 conexiones en simultaneo, de caso contrario tendran que hablarlo con el admin Elias Almada para poder reiniciar el conteo de conexiones.
+A continuación, encontrarás las instrucciones para acceder a la base de datos local de Netfllix. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
+
 
 ## Detalles de Acceso
 
-- **Host:** sql10.freesqldatabase.com
-- **Nombre de la Base de Datos:** sql10686160
-- **Usuario:** sql10686160
-- **Contraseña:** eUEte4iHJE
+- **Host:** localhost
+- **Nombre de la Base de Datos:** netflix
+- **Usuario:** root
+- **Contraseña:** root1234
 
 ## Pasos para Acceder
 
@@ -18,10 +18,10 @@ Tener en cuenta que es una database online en una nube de prueba, maximo 5 conex
 
 2. Ingresa la información de conexión provista anteriormente en los campos correspondientes del cliente de MySQL:
 
-- **Host:** sql10.freesqldatabase.com
-- **Nombre de la Base de Datos:** sql10686160
-- **Usuario:** sql10686160
-- **Contraseña:** eUEte4iHJE
+- **Host:** localhost
+- **Nombre de la Base de Datos:** netflix
+- **Usuario:** root
+- **Contraseña:** root1234
 
 3. Haz clic en "Conectar" o presiona Enter para establecer la conexión con la base de datos.
 
