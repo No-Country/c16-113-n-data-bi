@@ -1,6 +1,6 @@
 ![Logo](https://github.com/No-Country/c16-113-n-data-bi/blob/804cd3081162986cb7c9461da39be35f65eeefec/resources/Bannerreadme.png)
 
-## Integrantes del equipo
+## <img width="30" height="30" src="https://img.icons8.com/doodle/30/crowd.png" alt="crowd"/> INTEGRANTES
 
 - [**Data Engineering & ETL Dev**: Elías Almada](https://www.linkedin.com/in/elias-almada-795a54158/)
 - [**Data & BI Analyst**: María José Atencio](https://www.linkedin.com/in/maria-jose-atencio-96a8761aa/)
