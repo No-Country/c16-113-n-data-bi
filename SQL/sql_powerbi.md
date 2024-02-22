@@ -25,7 +25,7 @@ Tener en cuenta que es una database online en una nube de prueba, maximo 5 conex
 - 
 3. Haz clic en "Conectar" o presiona Enter para establecer la conexión con la base de datos.
 
-4. Una vez conectado/a, podrás acceder y consultar los datos de siniestros viales en la base de datos.
+4. Una vez conectado/a, podrás acceder y consultar los datos de Netflix en la base de datos.
 
 ## Consideraciones Adicionales
 
