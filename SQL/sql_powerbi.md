@@ -22,7 +22,7 @@ Tener en cuenta que es una database online en una nube de prueba, maximo 5 conex
 - **Nombre de la Base de Datos:** sql10686160
 - **Usuario:** sql10686160
 - **Contraseña:** eUEte4iHJE
-- 
+
 3. Haz clic en "Conectar" o presiona Enter para establecer la conexión con la base de datos.
 
 4. Una vez conectado/a, podrás acceder y consultar los datos de Netflix en la base de datos.
