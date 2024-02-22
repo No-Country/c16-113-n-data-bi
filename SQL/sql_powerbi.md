@@ -1,81 +1,33 @@
+# Instrucciones para Acceder a la Base de Datos Online de Siniestros Viales
 
-# Abrir Power BI Desktop e iniciar un nuevo informe en blanco.
+Bienvenido/a,
 
-Power BI Desktop.exe
-Usa el código con precaución.
+A continuación, encontrarás las instrucciones para acceder a la base de datos on-line de siniestros viales. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
 
-# En la pestaña **Inicio**, seleccionar **Obtener datos**.
+## Detalles de Acceso
 
-Inicio -> Obtener datos
-Usa el código con precaución.
-En el cuadro de diálogo Obtener datos, seleccionar Base de datos > MySQL.
-Markdown
-# En el cuadro de diálogo **Obtener datos**, seleccionar **Base de datos** > **MySQL**.
+- **Host:** bfdehrgcxcsyt5xnpchs-mysql.services.clever-cloud.com
+- **Nombre de la Base de Datos:** bfdehrgcxcsyt5xnpchs
+- **Usuario:** uejock9ipcillxlu
+- **Contraseña:** iJ0eaKoST3btFt2oOD7j
 
-Obtener datos -> Base de datos -> MySQL
-Usa el código con precaución.
-En el cuadro de diálogo Base de datos MySQL, seleccionar Conexión básica.
-Markdown
-# En el cuadro de diálogo **Base de datos MySQL**, seleccionar **Conexión básica**.
+## Pasos para Acceder
 
-Base de datos MySQL -> Conexión básica
-Usa el código con precaución.
-Introducir la siguiente información:
+1. Abre tu cliente de MySQL preferido (por ejemplo, MySQL Workbench, HeidiSQL, o la línea de comandos de MySQL).
 
-Servidor: El nombre del servidor MySQL.
-Base de datos: El nombre de la base de datos MySQL.
-Usuario: El nombre de usuario de la base de datos MySQL.
-Contraseña: La contraseña del nombre de usuario de la base de datos MySQL.
-Markdown
-# Introducir la siguiente información:
+2. Ingresa la información de conexión provista anteriormente en los campos correspondientes del cliente de MySQL:
 
-* **Servidor**: bfdehrgcxcsyt5xnpchs-mysql.services.clever-cloud.com
-* **Base de datos**: bfdehrgcxcsyt5xnpchs
-* **Usuario**: uejock9ipcillxlu
-* **Contraseña**: iJ0eaKoST3btFt2oOD7j
-Usa el código con precaución.
-Seleccionar Probar conexión para verificar la conexión.
-Markdown
-# Seleccionar **Probar conexión** para verificar la conexión.
+   - **Host:** bfdehrgcxcsyt5xnpchs-mysql.services.clever-cloud.com
+   - **Nombre de la Base de Datos:** bfdehrgcxcsyt5xnpchs
+   - **Usuario:** uejock9ipcillxlu
+   - **Contraseña:** iJ0eaKoST3btFt2oOD7j
+   - 
+3. Haz clic en "Conectar" o presiona Enter para establecer la conexión con la base de datos.
 
-Probar conexión
-Usa el código con precaución.
-Seleccionar Transformar datos para cargar la tabla en Power BI.
-Markdown
-# Seleccionar **Transformar datos** para cargar la tabla en Power BI.
+4. Una vez conectado/a, podrás acceder y consultar los datos de siniestros viales en la base de datos.
 
-Transformar datos
-Usa el código con precaución.
-En el editor de Power Query, seleccionar la tabla que desea cargar y seleccionar Cargar.
-Markdown
-# En el editor de Power Query, seleccionar la tabla que desea cargar y seleccionar **Cargar**.
+## Consideraciones Adicionales
 
-# La tabla se cargará en Power BI.
-Usa el código con precaución.
-Consejos:
-Si necesita usar una conexión avanzada, puede seleccionar Conexión avanzada en el cuadro de diálogo Base de datos MySQL.
-Puede usar el editor de Power Query para transformar los datos antes de cargarlos en Power BI.
-Para obtener más información sobre cómo conectarse a MySQL desde Power BI, puede consultar la documentación de Microsoft: [se quitó una URL no válida]
-Ejemplo:
-En este ejemplo, nos conectaremos a la base de datos MySQL "bfdehrgcxcsyt5xnpchs" con el nombre de usuario "uejock9ipcillxlu" y la contraseña "iJ0eaKoST3btFt2oOD7j".
+- Por favor, asegúrate de tratar la información de la base de datos con responsabilidad y respetar la privacidad de los datos.
 
-Markdown
-# Ejemplo:
-
-# Conectarse a la base de datos MySQL "bfdehrgcxcsyt5xnpchs" con el nombre de usuario "uejock9ipcillxlu" y la contraseña "iJ0eaKoST3btFt2oOD7j".
-
-Servidor: bfdehrgcxcsyt5xnpchs-mysql.services.clever-cloud.com
-Base de datos: bfdehrgcxcsyt5xnpchs
-Usuario: uejock9ipcillxlu
-Contraseña: iJ0eaKoST3btFt2oOD7j
-
-# Seleccionar **Probar conexión** para verificar la conexión.
-# Seleccionar **Transformar datos** para cargar la tabla en Power BI.
-# En el editor de Power Query, seleccionar la tabla que desea cargar y seleccionar **Cargar**.
-# La tabla se cargará en Power BI.
-Usa el código con precaución.
-Conclusión:
-En este documento, hemos descrito los pasos necesarios para conectar Power BI a una base de datos MySQL, utilizando código Markdown.
-
-Nota:
-Este código es solo un ejemplo y puede ser necesario modificarlo para adaptarlo a su entorno específico.
+- Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en ponerte en contacto con el administrador del sistema.
