@@ -3,6 +3,7 @@
 Bienvenido/a,
 
 A continuación, encontrarás las instrucciones para acceder a la base de datos on-line de Netfllix. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
+Tener en cuenta que es una database online en una nube de prueba, maximo 5 conexiones en simultaneo, de caso contrario tendran que hablarlo con el admin Elias Almada para poder reiniciar el conteo de conexiones.
 
 ## Detalles de Acceso
 
