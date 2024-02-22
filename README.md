@@ -1,8 +1,4 @@
-# c16-113-n-data-bi
-
-Grupo c16-113-n-data-bi simulación No Country
-
-Integrantes del equipo y roles
+<img src=”C:\Users\herna\Desktop\c16-113-n-data-bi\resources\Bannerreadme.png" alt=”my banner”>
 
 
 
