@@ -2,7 +2,7 @@
 
 Bienvenido/a,
 
-A continuación, encontrarás las instrucciones para acceder a la base de datos on-line de siniestros viales. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
+A continuación, encontrarás las instrucciones para acceder a la base de datos on-line de Netfllix. Por favor, sigue los pasos detallados a continuación para acceder a los datos de forma segura y efectiva.
 
 ## Detalles de Acceso
 
