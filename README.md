@@ -36,3 +36,26 @@ El fin del mismo es responder una serie de preguntas de negocio:
 - 🔧 **Python**: Análisis, normalización y transformación del dataset original. 
 - 📝 **MySQL**: Creación de la base de datos para la ingesta de datos de la herramienta de visualización.
 - 📑 **PowerBI**: Visualización de los datos para su análisis visual e identificación de tendencias.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ➡️ Proceso y metodología
+
+- ▶️ Se utilizó la metodología de sprints para realizar las distintas tareas, comenzando por el primer sprint en el cual se realizó la eleccion y descarga del dataset desde la plataforma Kaggle, su posterior análisis, normalización y limpieza. A continuación se transformó el dataframe creado en python a una base de datos MySQL para que la ingesta de datos desde PowerBI se hiciera mas sencilla y a la vez mas estructurada.
+
+- ▶️ El segundo sprint constó de la conexión de la base de datos MySQL con PowerBI y la creación de una plantilla para el tablero, a fin de tener todos los filtros y una uniformidad visual en las distintas pantallas del tablero final.
+
+- ▶️ El tercer y último sprint constó de la creación del tablero en si mismo, su análisis y la búsqueda de tendencias y relaciones relevantes para el fin de contestar las preguntas de negocio planteadas inicialmente.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🛑 Resultados
+
+El proyecto ha permitido obtener una serie de insights sobre la plataforma Netflix, como por ejemplo:
+
+- Los géneros más populares entre los usuarios.
+- La distribución de las películas y series por país de origen.
+- La evolución del número de usuarios a lo largo del tiempo.
+- La relación entre la calificación de una película o serie y su número de visualizaciones.
+  
+## 🪜 Conclusiones
+
+El proyecto ha demostrado el potencial de Power BI para la visualización de datos y la obtención de insights a partir de grandes conjuntos de datos.
