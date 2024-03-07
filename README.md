@@ -30,3 +30,9 @@ El fin del mismo es responder una serie de preguntas de negocio:
     - Qué tipo de contenido ven los usuarios?
     - Cuanto Tiempo ven Netflix los Usuarios?
     - En que dispositivos ven Netflix?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :computer: Stack de tecnologías
+
+- 🔧 **Python**: Análisis, normalización y transformación del dataset original. 
+- 📝 **MySQL**: Creación de la base de datos para la ingesta de datos de la herramienta de visualización.
+- 📑 **PowerBI**: Visualización de los datos para su análisis visual e identificación de tendencias.
